@@ -1,3 +1,3 @@
-var cowsay = require('../index');
+const cowsay = require('../index');
 
 cowsay(process.argv[2]);
